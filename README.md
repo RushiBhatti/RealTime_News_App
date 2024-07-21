@@ -1,16 +1,11 @@
-# news_app
+# Real Time News App
 
-A new Flutter project.
+👉🏻 This app empowers users to stay informed on a wide range of topics. Browse through 13 distinct categories, including entertainment, sports, national news, world affairs, business, science, and more.
 
-## Getting Started
+👉🏻 I developed this app using flutter.
 
-This project is a starting point for a Flutter application.
+✨ The app utilizes a powerful real-time news API provided by InfoLabz IT services pvt. Ltd.
 
-A few resources to get you started if this is your first Flutter project:
+✨ The user interface is sleek and intuitive, offering a smooth scrolling experience for effortless navigation.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Execution video of this app:** https://www.linkedin.com/posts/rushi-bhatti_flutter-dart-apiintegration-activity-7220692450833555456-M8c5?utm_source=share&utm_medium=member_android
